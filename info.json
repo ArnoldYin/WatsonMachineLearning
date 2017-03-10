@@ -2,7 +2,7 @@
  "type": [ "Extension" ],
 "provider": [ "IBM" ],
 "software": [ "SPSS Modeler" ],
-"language": [ " Python 2" ],
-"category": [ "Analysis" ],
+"language": [ "R" ],
+"category": [ "Watson" ],
 "promotion": [ "No" ] 
 }
